@@ -1,0 +1,3 @@
+Generated_At,Ticker,Company,Buy_Price_USD,Shares,Current_Price_USD,Invested_USD,Market_Value_USD,Gain_Loss_USD,Gain_Loss_Percent
+2026-10-31T08:28:13+05:30,AAPL,Apple Inc.,150.00,2.8,344.63,420.00,964.96,544.96,129.75
+2026-10-31T08:28:13+05:30,TOTAL,Portfolio Total,,,,420.00,964.96,544.96,129.75
